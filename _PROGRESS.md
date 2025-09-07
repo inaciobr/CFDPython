@@ -1,4 +1,4 @@
-- [ ] Quick Python Intro
+- [x] Quick Python Intro
 - [ ] Step 1 —Linear convection with a step-function initial condition (IC) and appropriate boundary conditions (BCs).
 - [ ] Step 2 —With the same IC/BCs, nonlinear convection.
 - [ ] CFL Condition —Exploring numerical stability and the Courant-Friedrichs-Lewy (CFL) condition.
