@@ -1,6 +1,6 @@
 - [x] Quick Python Intro
-- [ ] Step 1 —Linear convection with a step-function initial condition (IC) and appropriate boundary conditions (BCs).
-- [ ] Step 2 —With the same IC/BCs, nonlinear convection.
+- [x] Step 1 — Linear convection with a step-function initial condition (IC) and appropriate boundary conditions (BCs).
+- [ ] Step 2 — With the same IC/BCs, nonlinear convection.
 - [ ] CFL Condition —Exploring numerical stability and the Courant-Friedrichs-Lewy (CFL) condition.
 - [ ] Step 3 —With the same IC/BCs, diffusion only.
 - [ ] Step 4 —Burgers’ equation, with a saw-tooth IC and periodic BCs (with an introduction to Sympy).
